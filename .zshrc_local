@@ -1,0 +1,1 @@
+alias parse='python3 feedparse.py | pbcopy; echo "done!"'
