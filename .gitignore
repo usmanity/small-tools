@@ -167,3 +167,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.\*
+
+# Rust / Cargo
+rss-tui/target/
+/rss-tui
+!/rss-tui/
+
+
